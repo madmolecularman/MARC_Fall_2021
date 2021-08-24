@@ -1,0 +1,142 @@
+---
+title: "MARC Session Planning Form"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Informal Debrief       |
+|--------------------------|--------------------------------|
+| Date created:12/3/2020   | Date implemented: 12/4/2020    |
+| Week in course: 15       | Resources:MARC eval survey (https://drive.google.com/file/d/1WZo5t1pICvMzOWpMTGC9T6ixwsxgNOik/view?usp=sharing) |
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource: **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+    a. Concepts
+        * Reflection
+        * Reflexivity
+        * Praxis
+    b. Skills
+        * Reflecting on your experiences
+        * Articulating your triumphs and pitfalls
+        * How to move forward with a plan
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+The most difficult concept is that of reflection. To start reflection that is meaningful you have to come from an honest place. Once you build that honest space you begin to fill it with the good and the bad experiences. Those experiences can then guide your reflexivity and praxis. It is difficult to transition from reflection to these other two concepts, but I believe starting is the most difficult. 
+
+The most difficult skill is articulating your pitfalls. We are very rarely attuned with what weent wrong. We may fear that something has gone wrong but to see all angles and know how our actions or reactions shape an outcome is difficult to pin down.
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1.
+
+I would like the trainees to communicate how this semester has impacted them, what changes we need to make, and how they paln to move forward.
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+Initial check-in will be the same. Once everyone is in the zoom room we will go through updates.
+
+1) Please welcome Meagan Pepper as our new MARC coordinator. Meagan will be giving us an introduction to her and how she got here after our updates.
+2) Thank you all for responding to the call for presentations for the SURF conference. It is perfectly fine to use your abstract and poster from ABRCMS. We will be working with those who do not have data but wish to present. Many of the SURF scholars are in the same position as well, so do not feel like you are on your own. 
+3) We will be meeting 12/18 as a whole group to celebrate the end of the semester. It is an informal get together and is meant to bookend our semester.
+4) Winter can be as productive as you want it to be. It is a great time to get started on deliverables and applications as there is a lot of time for thought. Please do not hesistate to contact me or the other coordinators if there is something you need to discuss
+
+Meagan's Introduction (how ever long you need)
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+Open floor for pertinant questions
+
+Jewel: SRE question about what next after interviews with lab
+Anya: URI2 grant (impact, your original research, ) What is your original contribution, why?, new?
+
+Part 1: List 5 accomplishments from this semester. 
+
+Naomi: COVID collection in pawtucket, collections at URI, communication in 2nd language, develop a COVID assay, pulling a lot of nights for the COVID assay, travel award for SACNAS and ABRCMS, URI interviews, been healthy.
+
+Demi: cell culture, research manuscript, establishing a routine, choice project for her capstone (augmented reality), 
+
+Avery: having a good schedule, keeping up with online courses, return to the lab, new project, brought his grandad a car, helped his cousin to apply for college.
+
+Anya: wrote her own protocol for BCA/western/molecular stuff, orgo course, uri2 grant and taking a new step, director of inclusion, mental health issues to overcome and the progress she has made
+
+Jewel: starting in Dr. Chen's lab, presenting her first poster and networking, driving for EMS, URI 101 mentors, student advocacy with disabilities, 
+
+Elizabeth: Making her poster and presenting at ABRCMS, excited for grad programs, summer research in UCSD, overcoming procrastination, kinda a chef now, happy with where she is at
+
+Meagan: Got her first temp job, skills for RI's future, got this job, husband got a job, bonded with her dog, 
+
+Part 2: What do these accomplishments say about you?
+
+
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+We are going to start with some question from our last end of smemester survey
+
+1) What can the MARC U-STAR Program do to improve its services to fellows in the upcoming year? 
+
+* More one on one time with the PI's, coordinator, mentor established routine
+* More visibility as an organization on campus
+* Graduate student panels and organized club exposure and outreach
+* Having a logo, cohort stoles
+* Advertising has to many letters!
+* Video or podcast for our program
+* Booth or person present to advertise!
+* Day in the life
+* Instgram takeovers
+* Recruitment (BME academic assistantship)
+* MARC could take a page out of the TD program
+* Partnership with TD
+* Upward bound and scholars
+* Course on fridays
+
+2) What do you believe to be the most useful part of the MARC U-STAR Program?
+
+* Github website was utilized and should be used again
+* Check-ins that we do and getting back to where we are at
+* Timely communication (Dr. Howlett issue with timely anything, monthly meeting, worksheets)
+* Expectations were met with support
+
+3) What could be done to improve your relationship/research experience?
+
+4) How has this semester influenced you?
+
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+What is your take away from this semester? 
+
+* Not to take the small stuff personally. Take a step back. Actionable items. The reason I am stressed is not because something is wrong with me, but everyone is feeling that way.
+* Want to go on your own time, when you are ready.Self-agency over your path
+* Great to be doing what you were doing with a whole new support system
+* Having the support system to be involved in the lab and find a good PI
+* Validity to your research and affiliation
+
+How do you see yourself now as a scholar, researcher, and person?
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+

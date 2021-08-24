@@ -1,0 +1,124 @@
+---
+title: "MARC Summer: What about Grad School?"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Planning form temp     |
+|--------------------------|--------------------------------|
+| Date created:6/15/2020   | Date implemented:7/02/2020     |
+| Week in course:4         | Resources: Asher, UROC, Files  |
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+    a. Concepts
+        * Timing is everything
+        * Networking is your greatest resource
+        * After applications are turned in the real game starts
+    b. Skills
+        * Developing a living timeline that is useable
+        * Drafting, rewriting, and polishing a compelling essay, statement of purpose, or autobiography.
+        * Obtaining multiple favorable letters of reccomendation from faculty members when they are busy
+        * Opening and managing online applications with each school
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+I find that the work done after the applications have been submitted is the most difficult. we work hard to perfect these application only then to be told well now you have 10,000 other hoops to jump through. Soliciting great letters of reccomendation are so important but the process is daunting if you start it too late.
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+I would like to see:
+
+Year One:
+1) Clarify their intent to attend SRE or advanced degree
+2) Build a list of possible programs with advisors (see spreadsheet)
+3) Create a graduate school/summer research experience timeline
+4) Letter writers
+
+Year Two:
+1) Clarify their intent to obtain an advanced degree
+2) Build a list of possible programs with advisors (see spreadsheet)
+3) Create a graduate school timeline
+2) Refine their list of schools
+4) Collate a list of letter writers
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+Questions: What is one thing that you are excited or confident about? What is one thing that you are curious about? What is one thing that you are confused about? (5 minutes to write and think & 10 minutes to share)
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+Year One: Create a list of possible schools/programs
+
+Year Two: Take you current list of school and rank them in the following categories
+1) Schools that you are sure you will get into (safety schools)
+2) Schools which you will probably get into
+3) Schools that might be a reach for you to get into
+
+www.petersons.com
+We will organize your schools with an excel spreadsheet. One is provided on the github page. Review this and allow it to guide your application process. Keep filling in as much information as possible. Add sections if you feel like. 
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed. 
+
+Apply to graduate school:
+1) Personal Statements
+2) Letters of Recommendations
+3) Application
+    * Information
+    * Transcripts
+4) Standardized tests (maybe)
+5) Communication with Program or Mentor
+6) Scholarships and Fellowships
+7) CV
+8) Online profile?
+
+Application to acceptance:
+1) Relevant updates and achievements sent to graduate school and mentor
+
+Being in graduate school:
+1) Mentor Relationship
+2) Assistantships
+3) Coursework
+4) Qualifying Exam
+5) Comprehensive Exam
+6) Dissertation 
+
+#### Part 1: What are your questions regarding graduate school?
+
+#### Part 2: Building a graduate school timeline.
+
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+I Like our check-ins and the warm-ups. The check-in allows me to gauged where they are at and shows me how fast I may be able to move in this process. The warm-up using CCC method worked quite well. It allows them to communicate what they know and the gaps that we need to fill together.
+
+**2. What did trainees learn? How do you know?**
+Trainees learned a bit about me. I had one of them ask about my gap year. I was up front and told them what it was like. This signalled to me how comfortable they are asking me personal questions. It was the least I could do when askling them to reflect like in the early reflection.
+
+**3. What would you change about your session today?**
+I would change the bit where I go through some of the discussion question I had come up with. I should have allowed them to identify one or two of those questions and we could have discussed it. When you begin to go down the list it begins to feel and generate an atmosphere of lecturing and I don't want to do that.
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+I asked them to reflect on their dream for graduate school. What is it? What does it look like? We will be covering the online profile next week. Im excited.
+
+**5. What are you considering as good use of next week's session?**
+Building their online profile and looking at ways that they can increase their prescence while also curating what that looks like.
+

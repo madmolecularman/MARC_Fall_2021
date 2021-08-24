@@ -1,0 +1,167 @@
+---
+title: "MARC Session Planning Form"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Welcome and goal setting |
+|--------------------------|----------------------------------|
+| Date created:9/11/2020 | Date implemented: 9/11/2020 |
+| Week in course: 1 | Resources: None |
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+    a. Concepts
+      * Getting back together after summer
+      * Clarifying expectations and goals for this Fall
+      * What is our new norm in meetings
+
+    b. Skills
+      * Open conversation around expectations from ourselves and each other
+      * Clearly defining goals that are SMART for this Fall
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+I think having open and sincere conversation about what trainees expect out of the coordinating team and what the coordinating team expects from trainees is crucial. This begins with articulating the goals we have set for ourselves and each other. This allows all of us to visualize these goals and see how we may facilitate one another through this trying semester.
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+1) I would like to see them clearly articulate their expectations of the program and the goals that they have set for themselves
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+Get everyone into the zoom call. Have banter and catch up time, give updates from our labs and summer activities. 
+
+Once on give Michelle sometime to speak to MARC trainees.
+
+Michelle addresses the tough circumstances that we are up against. Her primary concern is to retain our students and support you all through this endeavor. Please feel free to call Michelle and how to navigate this crazinees, staying safe, and the racial inequities that continue to persist. If you just want to vent or talk through circumstance reach out to Michelle.
+
+Need time to reflect, sit in your own space, and begin to work through and processing your ideas and goals.
+
+Wellness is different for everyone, but you truly need to figure out how to take care of it through establishing healthy habits and using your network.
+
+We know how difficult and challenging these times are.
+
+Questions to Michelle: 
+
+No questions
+
+Run through github
+
+Questions about how we are communicating this semester?
+
+All calendar and resources will be on the github: https://github.com/madmolecularman/MARC_Fall_2020
+
+Manage your endeavor in your individual meeting
+
+Does anyone have any comments or concerns about this format?
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+**Confident**
+
+Trainees:
+  * Get good grades in another 4.0 semester
+  * Learning new skill sin the lab you will be working in
+  * Research project and the direction the lab is going 
+  * stay on top of things, but probably not sleeping much
+  * Graduating in May
+  * Lab studies and Projects
+  * Handle the semester
+  * Get what you need to get done, get it done
+Coordinators:
+  * Class preparation, able to go remote when needed
+  * We are going to be shutdown in three weeks
+  * Keep my weekends free
+
+**Curious** 
+
+Trainees:
+  *
+Coordinators:
+  * 
+
+**Confused**
+
+Trainees:
+  *
+Coordinators:
+  * 
+
+**Concerned**
+
+Trainees:
+  * Baby Orgo, not sure what to call her, teaching style. Anya molecular track of neuro
+  * In person schooling, capstone question mark, getting started, what it looks like, online classes not fun and a dread, makes little sense especially labs. 
+  * Losing structure in scheduling for excercise and personal time. 
+  * Orgo 2 McGregor, and already dislike it due to a lack of communication
+  * 
+Coordinators:
+  * 
+
+Notes: 
+Robbed of lab
+Dr. Nelson doing a good job of online work
+Recording the lecture with an automatic email with the recording
+Responding and being available
+Become effective science communicators to help with the validity of scientific conerns
+Human social structure are slightly falling apart and there is not much we can do
+Worry about the long term effects of this distance social structure and learning
+
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+Discuss goals of trainees
+  * More prepared to apply to graduate school (plan, timeline, letter of intent),(yearly goal)
+  * Have the confidence in where you are going to be next summer
+  * Grow an interest in the applied/research aspect of this process
+  * Program can support my track for school (tangible and emotional)
+  * Not to miss any deadlines and stay organized
+  
+Discuss goals of coordinators
+  * To provide support for all of you, can always reach out via email or zoom meetings
+
+Discuss expectations of trainees
+  * Get in letters of reccomendation on time
+  * Timely communication
+  * Matching the level of expectations with support
+  * We need some understanding and calm in light of the time we are in
+  * Be more understanding of how this semester may progress and change
+  * Be involved in this process fully 
+
+Discuss expectations of coordinators
+  * 
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+How are we going to hold ourselves and each other accountable this semester?
+
+5 minutes to write your thoughts on what is going to make you successful this semester. 
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+
