@@ -42,9 +42,9 @@ Optional group or individual disucssion is an open period of time that is entire
 
 > Have the confidence in where you are going to be next summer
 
-> Grow an interest in the applied/research aspect of this process
+> Develop your interest in the applied/research aspect of your scholarship
 
-> Program and coordinators supports my track for school (tangible and emotional)
+> Program and coordinators fully support your path through your degree (tangible and emotional)
 
 > Not to miss any deadlines and stay organized
 
